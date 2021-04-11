@@ -1,0 +1,99 @@
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\ProductData.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.exe
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.deps.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.dev.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.dll
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfoInputs.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfo.cs
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CoreCompileInputs.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.Manifest.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.xml
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SmartVisionAPI.styles.css
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CopyComplete
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.dll
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.genruntimeconfig.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\CustomersData.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csprojAssemblyReference.cache
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\CustomersData.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\ProductData.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\SaleTransactionData.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.exe
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.deps.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.dev.json
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.dll
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csprojAssemblyReference.cache
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfoInputs.cache
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfo.cs
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.Manifest.cache
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.xml
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SmartVisionAPI.styles.css
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CopyComplete
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.dll
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+C:\Users\moham\Downloads\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.genruntimeconfig.cache
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\CustomersData.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\ProductData.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\SaleTransactionData.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.exe
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.deps.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.dev.json
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.dll
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csprojAssemblyReference.cache
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfoInputs.cache
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfo.cs
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CoreCompileInputs.cache
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.MvcApplicationPartsAssemblyInfo.cache
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.Manifest.cache
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.xml
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SmartVisionAPI.styles.css
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.RazorTargetAssemblyInfo.cache
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CopyComplete
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.dll
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+W:\Personal\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.genruntimeconfig.cache
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\CustomersData.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\ProductData.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\SaleTransactionData.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.exe
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.deps.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.runtimeconfig.dev.json
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.dll
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csprojAssemblyReference.cache
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfoInputs.cache
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.AssemblyInfo.cs
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CoreCompileInputs.cache
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.MvcApplicationPartsAssemblyInfo.cache
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.Manifest.cache
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\SmartVisionAPI.StaticWebAssets.xml
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\SmartVisionAPI.styles.css
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.RazorTargetAssemblyInfo.cache
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.csproj.CopyComplete
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.dll
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.pdb
+B:\Projects\SmartVisionProject\SmartVision\SmartVisionAPI\SmartVisionAPI\BackEndAPI\obj\Debug\netcoreapp3.1\SmartVisionAPI.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "Sales": [
+    {
+      "Id": 1,
+      "ProducName": "T-shirt",
+      "CustomerName": "Mohammed",
+      "ProdPrice": 100.0,
+      "Qnt": 10,
+      "Total": 1000.0
+    }
+  ]
+}

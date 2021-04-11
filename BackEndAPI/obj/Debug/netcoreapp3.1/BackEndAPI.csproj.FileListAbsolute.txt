@@ -1,0 +1,46 @@
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\ProductData.json
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.exe
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.deps.json
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.runtimeconfig.json
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.runtimeconfig.dev.json
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.dll
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.pdb
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.csprojAssemblyReference.cache
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.AssemblyInfo.cs
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackEndAPI.StaticWebAssets.Manifest.cache
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackEndAPI.StaticWebAssets.xml
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackEndAPI.styles.css
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.RazorTargetAssemblyInfo.cache
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.dll
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.pdb
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.genruntimeconfig.cache
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\moham\source\repos\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.csproj.CopyComplete
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Data\ProductData.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.exe
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.deps.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.runtimeconfig.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.runtimeconfig.dev.json
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.dll
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\BackEndAPI.pdb
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.csprojAssemblyReference.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.AssemblyInfoInputs.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.AssemblyInfo.cs
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.csproj.CoreCompileInputs.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackEndAPI.StaticWebAssets.Manifest.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\staticwebassets\BackEndAPI.StaticWebAssets.xml
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\BackEndAPI.styles.css
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.RazorTargetAssemblyInfo.cache
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.csproj.CopyComplete
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.dll
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.pdb
+C:\Users\M. Elmustafa\Downloads\BackEndAPI\BackEndAPI\obj\Debug\netcoreapp3.1\BackEndAPI.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+{
+  "Customers": [
+    {
+      "CustID": 1,
+      "CustName": "Mohammed",
+      "Address": "Dubai",
+      "Telephone": "0129940662"
+    },
+    {
+      "CustID": 2,
+      "CustName": "Ali",
+      "Address": "Ajman",
+      "Telephone": "0129940662"
+    },
+    {
+      "CustID": 3,
+      "CustName": null,
+      "Address": "UAE",
+      "Telephone": null
+    },
+    {
+      "CustID": 4,
+      "CustName": null,
+      "Address": "R",
+      "Telephone": null
+    },
+    {
+      "CustID": 5,
+      "CustName": "fksdjlfjs",
+      "Address": "fdjlkfjsl",
+      "Telephone": null
+    },
+    {
+      "CustID": 6,
+      "CustName": "Mohammed Elmostafa",
+      "Address": "Dubai",
+      "Telephone": "+971588904955"
+    }
+  ]
+}
